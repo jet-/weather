@@ -11,7 +11,7 @@ My server imports the data from weather station into MariaDB/MySQL table (cronjo
 
 2. Create tables
 
-	mysql -p  < mysql_tables.sql
+	mysql -p  weather < mysql.sql
 
 3. Create user in MySQL/MariaDB and grant access for the database
 
@@ -29,5 +29,3 @@ My server imports the data from weather station into MariaDB/MySQL table (cronjo
 #
 
 Buy me a coffee - BTC: 1L25rmhgM9yvJYcUsUkNJf49EfFjQYmCbt
-
-#
