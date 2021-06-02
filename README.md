@@ -24,7 +24,7 @@ My server imports the data from weather station into MariaDB/MySQL table (cronjo
 6. Point the browser to https://server/weather/weather.php
 
 #
-![entry](https://github.com/jet-/weather/blob/master/images/screen.png)
+![entry](https://github.com/jet-/weather/blob/main/images/screen.png)
 
 #
 
