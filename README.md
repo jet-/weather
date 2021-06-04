@@ -26,6 +26,8 @@ My server imports the data from weather station into MariaDB/MySQL table (cronjo
 #
 ![entry](https://github.com/jet-/weather/blob/main/images/screen.png)
 
+![entry](https://github.com/jet-/weather/blob/main/images/rpi.png)
+
 #
 
 Buy me a coffee - BTC: 1L25rmhgM9yvJYcUsUkNJf49EfFjQYmCbt
